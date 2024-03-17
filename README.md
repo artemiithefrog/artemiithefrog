@@ -20,7 +20,7 @@
 ## Skills
 
 - Swift
-- SwiftUI, MVVM
+- SwiftUI, UIKit, MVVM
 - SOLID, DRY, KISS
 - Firebase, CoreData, SwiftData, Realm, UserDefaults
 - Foundation, MapKit, UserNotification
