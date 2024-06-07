@@ -1,16 +1,28 @@
 #### Hi, I am Artemii Malyshev, SwiftUI developer.
-##### Currently working at [Susbcriptions](https://github.com/artemiithefrog/Subscriptions)
+##### Currently working at With
 
 ## Work experience
 
-#### [Susbcriptions](https://github.com/artemiithefrog/Subscriptions) - 22.09.23-present
+#### Freelance - Apr 2024 - Now
+
+#### Creating home widgets for prayers app using
+SwiftUI
+
+#### WithU - March 2024 - Now
+
+##### Couples App
+
+#### Tech stack:
+##### SwiftUI, UIKit, Flutter, Firebase etc.
+
+#### [Susbcriptions](https://github.com/artemiithefrog/Subscriptions) - Sep 2023 - Jan 2024
 
 ##### Subscription tracker app
 
 #### Tech stack:
 ##### SwiftUI, SwiftData, Figma, etc.
 
-#### [SmartClass](https://github.com/iWalletTeam/smartClass) - 10.05.23- 19.08.23
+#### [SmartClass](https://github.com/iWalletTeam/smartClass) - May 2023 - Aug 2023
 
 ##### Student diary app
 
