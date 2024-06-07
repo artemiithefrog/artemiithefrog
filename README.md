@@ -5,8 +5,7 @@
 
 #### Freelance - Apr 2024 - Now
 
-#### Creating home widgets for prayers app using
-SwiftUI
+#### Creating home widgets for prayers app using SwiftUI
 
 #### WithU - March 2024 - Now
 
