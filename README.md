@@ -1,4 +1,4 @@
-#### Hi, I am Artemii Malyshev, SwiftUI developer.
+#### Hi, I am Artemii Malyshev, software engineer.
 ##### Currently working at WithU
 
 ## Work experience
