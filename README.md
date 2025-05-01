@@ -1,52 +1,34 @@
-#### Hi, I am Artemii Malyshev, software engineer.
-##### Currently working at WithU
+🚀 Artemii Malyshev — iOS Developer
+Currently working on freelance and in a startup.
+Published 10+ apps to the App Store.
 
-## Work experience
+👨‍💻 Experience
 
-#### Freelance - Apr 2024 - Now
+🧑‍🎨 Freelance · Apr 2024 – Now
+#SwiftUI #Widgets #AppStore
+💑 WithU (Couples App) · Mar 2024 – Now
+#SwiftUI #UIKit #Firebase #Flutter
+💸 Subscriptions · Sep 2023 – Jan 2024
+#SwiftUI #SwiftData #Figma
+🎓 SmartClass · May 2023 – Aug 2023
+#SwiftUI #Firebase #MVVM #Networking
+🛠 Tech Stack & Skills
 
-#### Creating home widgets for prayers app using SwiftUI
+#Swift #SwiftUI #UIKit #MVVM #SOLID #DRY #KISS
+#Firebase #CoreData #SwiftData #Realm #UserDefaults
+#Foundation #MapKit #UserNotifications
+#URLSession #JSON #FileManager #asyncAwait #GCD
+#Xcode #SPM #CocoaPods
+#Git #GitHub #Fork
+#Notion #Figma #Sketch
 
-#### WithU - March 2024 - Now
+📚 Courses
 
-##### Couples App
+#100DaysOfSwiftUI #SolomeinSwiftUI #WebAcademy
 
-#### Tech stack:
-##### SwiftUI, UIKit, Flutter, Firebase etc.
+🌍 Languages
 
-#### [Susbcriptions](https://github.com/artemiithefrog/Subscriptions) - Sep 2023 - Jan 2024
-
-##### Subscription tracker app
-
-#### Tech stack:
-##### SwiftUI, SwiftData, Figma, etc.
-
-#### [SmartClass](https://github.com/iWalletTeam/smartClass) - May 2023 - Aug 2023
-
-##### Student diary app
-
-#### Tech stack:
-##### SwiftUI, FireBase, MVVM, URLComponents, URLSession, JSONDecoder, Figma, etc.
-
-## Skills
-
-- Swift
-- SwiftUI, UIKit, MVVM
-- SOLID, DRY, KISS
-- Firebase, CoreData, SwiftData, Realm, UserDefaults
-- Foundation, MapKit, UserNotification
-- URLSession, FileManager, JSON, async/await, GCD
-- Xcode, SPM, CocoaPods
-- Git, GitHub, Fork
-- Notion
-- Figma, Sketch
-- Ukrainian - Native, English - B1-B2, Czech - B1
-
-## Courses 
-
-- 100 days of SwiftUI
-- Ian Solomein SwiftUI Basics
-- Web Academy - iOS DEVELOPMENT FOR BEGINNERS [SWIFT]
+#Ukrainian (Native) #Russian (Native) #English (B2) #Czech (B2)
 
 <!--
 **artemiithefrog/artemiithefrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
