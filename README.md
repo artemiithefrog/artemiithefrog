@@ -6,12 +6,16 @@ Published 10+ apps to the App Store.
 
 🧑‍🎨 Freelance · Apr 2024 – Now
 #SwiftUI #Widgets #AppStore
+
 💑 WithU (Couples App) · Mar 2024 – Now
 #SwiftUI #UIKit #Firebase #Flutter
+
 💸 Subscriptions · Sep 2023 – Jan 2024
 #SwiftUI #SwiftData #Figma
+
 🎓 SmartClass · May 2023 – Aug 2023
 #SwiftUI #Firebase #MVVM #Networking
+
 🛠 Tech Stack & Skills
 
 #Swift #SwiftUI #UIKit #MVVM #SOLID #DRY #KISS
