@@ -9,9 +9,8 @@ Published **15+ apps** to the App Store.
 
 ## 💼 Current
 
-### 🎨 ArtWorkout – Learn How to Draw  
-**iOS Developer · Jun 2025 – Now**  
-https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118
+### 🎨 [ArtWorkout – Learn How to Draw](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
+**iOS Developer · Jun 2025 – Now**
 
 ---
 
