@@ -1,38 +1,77 @@
-🚀 Artemii Malyshev — iOS Developer
-Currently working on freelance and in a startup.
-Published 10+ apps to the App Store.
+## 🚀 Artemii Malyshev
+### iOS Developer
 
-👨‍💻 Experience
+iOS developer focused on SwiftUI.  
+Freelance + startup experience.  
+Published **15+ apps** to the App Store.
 
-🧑‍🎨 Freelance · Apr 2024 – Now
-#SwiftUI #Widgets #AppStore
+---
 
-💑 WithU (Couples App) · Mar 2024 – Now
-#SwiftUI #UIKit #Firebase #Flutter
+## 💼 Current
 
-💸 Subscriptions · Sep 2023 – Jan 2024
-#SwiftUI #SwiftData #Figma
+### 🎨 ArtWorkout – Learn How to Draw  
+**iOS Developer · Jun 2025 – Now**  
+https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118  
 
-🎓 SmartClass · May 2023 – Aug 2023
-#SwiftUI #Firebase #MVVM #Networking
+`SwiftUI · UIKit · App Store`
 
-🛠 Tech Stack & Skills
+---
 
-#Swift #SwiftUI #UIKit #MVVM #SOLID #DRY #KISS
-#Firebase #CoreData #SwiftData #Realm #UserDefaults
-#Foundation #MapKit #UserNotifications
-#URLSession #JSON #FileManager #asyncAwait #GCD
-#Xcode #SPM #CocoaPods
-#Git #GitHub #Fork
-#Notion #Figma #Sketch
+## 👨‍💻 Experience
 
-📚 Courses
+### 🧑‍🎨 Freelance  
+**Apr 2024 – 2025**  
+`SwiftUI · Widgets · App Store`
 
-#100DaysOfSwiftUI #SolomeinSwiftUI #WebAcademy
+### 💑 WithU (Couples App)  
+**Mar 2024 – 2025**  
+`SwiftUI · UIKit · Firebase · Flutter`
 
-🌍 Languages
+### 💸 Subscriptions App  
+**Sep 2023 – Jan 2024**  
+`SwiftUI · SwiftData · Figma`
 
-#Ukrainian (Native) #Russian (Native) #English (B2) #Czech (B2)
+### 🎓 SmartClass  
+**May 2023 – Aug 2023**  
+`SwiftUI · Firebase · MVVM · Networking`
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & UI**  
+`Swift · SwiftUI · UIKit`
+
+**Architecture & Principles**  
+`MVVM · SOLID · DRY · KISS`
+
+**Data & Storage**  
+`Firebase · CoreData · SwiftData · Realm · UserDefaults`
+
+**System & APIs**  
+`Foundation · MapKit · UserNotifications · URLSession · JSON · FileManager`  
+`async/await · GCD`
+
+**Tools**  
+`Xcode · SPM · CocoaPods · Git · GitHub · Fork`  
+`Notion · Figma · Sketch`
+
+---
+
+## 📚 Education
+
+`100DaysOfSwiftUI · Solomein SwiftUI · WebAcademy`
+
+---
+
+## 🌍 Languages
+
+- Ukrainian - Native  
+- Russian - Native  
+- English - C1  
+- Czech - B2  
+- Spanish - A1
+
 
 <!--
 **artemiithefrog/artemiithefrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
