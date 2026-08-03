@@ -55,12 +55,6 @@ Published **15+ apps** to the App Store.
 
 ---
 
-## 📚 Education
-
-`100DaysOfSwiftUI · Solomein SwiftUI · WebAcademy`
-
----
-
 ## 🌍 Languages
 
 - Ukrainian - Native  
